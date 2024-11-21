@@ -1,8 +1,4 @@
-Here’s a detailed explanation of your BMI calculator code, suitable for adding to your GitHub repository as documentation or a `README.md` file:
-
----
-
-## BMI Calculator in Python
+# BMI Calculator in Python
 
 This simple Python script calculates the **Body Mass Index (BMI)** of a person based on their weight and height. It also provides feedback on the BMI category with personalized messages.
 
